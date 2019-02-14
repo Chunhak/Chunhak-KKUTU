@@ -1,0 +1,20 @@
+{
+  "name": "Chunhak-KKuTu",
+  "version": "2.5.1",
+  "description": "Rule the words! Chunhak KKuTu Server",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Chunhak/Chunhak-KKUTU",
+  "keywords": [
+    "Chunhak-kkutu"
+  ],
+  "author": "Chunhak",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "electron": "^1.4.15",
+    "electron-packager": "^8.5.1",
+    "electron-pug": "^1.5.1"
+  }
+}
